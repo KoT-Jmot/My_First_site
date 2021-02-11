@@ -1,11 +1,12 @@
 body{
     font-size: 36px;
     font-family: 'Times New Roman', Times, serif;
-    color:purple;
+    color:rgb(223, 63, 223);
 }
 .bluegreen{
     text-align: center;
     color:#008080;
     font-size: 24px;
     width: 50%;
+    
 }

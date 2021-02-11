@@ -1,11 +1,12 @@
 body{
     font-size: 36px;
     font-family: 'Times New Roman', Times, serif;
-    color:purple;
+    color:rgb(223, 63, 223);
 }
 .black{
     text-align: center;
     color:black;
     font-size: 24px;
     width: 50%;
+    
 }

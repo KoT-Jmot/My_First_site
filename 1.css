@@ -1,0 +1,11 @@
+body{
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    color:purple;
+}
+.black{
+    text-align: center;
+    color:black;
+    font-size: 24px;
+    width: 50%;
+}

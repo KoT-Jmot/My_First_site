@@ -1,8 +1,15 @@
 body{
     font-size: 36px;
     font-family: 'Times New Roman', Times, serif;
+<<<<<<< HEAD
+    color:rgb(223, 63, 223);
+    background: url("pic/fon.jpg") 0 0 no-repeat fixed;  /*Поиграй с последними знач. rgba, главное делай их одинаковыми*/
+}
+.bluegreen{
+=======
     background: url("pic/fon.jpg") 0 0 no-repeat fixed;
     background-size: cover;
+>>>>>>> 05e17c3d4182fdaa6f4e6b5dd0cacf59af787912
     text-align: center;
     height: 100%;
 }

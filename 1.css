@@ -2,7 +2,7 @@ body{
     font-size: 36px;
     font-family: 'Times New Roman', Times, serif;
     color:rgb(223, 63, 223);
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('pic/fon.jpg');  /*Поиграй с последними зач. rgba, главное делай их одинаковыми*/
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('pic/fon.jpg');  /*Поиграй с последними знач. rgba, главное делай их одинаковыми*/
 }
 .bluegreen{
     text-align: center;

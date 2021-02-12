@@ -13,20 +13,23 @@
      height: 10%;
      font-weight: 900;
      text-shadow: 2px 2px 5px chartreuse;
-     padding-bottom: 70px ;
+     padding-bottom: 70px;
  }
  .side{
-     width: 20%;
+     width: 21%;
      height: 1000px;
      display: inline-block;
+     
+     margin: 0px;
  }
 
  .center{
-     width: 55%;
+     width: 56%;
      height: 1000px;
      display: inline-block;
      background: rgba(245, 245, 245,0.3);
      border: 3px solid black;
+     margin: 0px;
      
  }
  .div{

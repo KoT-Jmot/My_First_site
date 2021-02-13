@@ -66,24 +66,3 @@ color:none;
 a{
    color:black;
 }
-#fixed_main_link{
-    position: fixed;
-    width: 100%;
-    top: -80px;
-    transition: top 0.2s;
-    margin: 0px;
-    background: url("pic/fon.jpg") 0 0 no-repeat fixed;
-    background-size: cover;
-
-}
-.main_fixed_link{
-    font-size:34px;
-    text-shadow: 2px 2px 5px chartreuse;
-    display: inline-block;
-    width: 20%;
-    text-align: center;
-    margin: 5px 15px 15px 15px;
-    border-radius: 15px;
-    border:rgb(165, 160, 160) 5px solid;
-    background: rgba(245, 245, 245,0.3);
- }

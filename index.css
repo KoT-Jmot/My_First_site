@@ -5,19 +5,20 @@ body{
     background-size: cover;
     text-align: center;
     height: 5000px;
-    width: 1430px;
+    width: 1425px;
 }
 .title{
     font-size:66px;
-    width: 1430px;
+    width: 1425px;
     font-weight: 900;
     text-shadow: 2px 2px 5px chartreuse;
     text-align: center;
     padding-bottom: 70px; /*отступ снизу*/
     margin-left: 25px;
+    margin: 0px;
 }
 .side{
-    width: 300px;
+    width: 360px;
     height: 1000px;
 
     display: inline-block; /*дивы*/
@@ -26,14 +27,13 @@ body{
     display: inline-block;
     height: 100px;
     float: left;
-
     margin: 0px;
 
 }
 
 
 .center{
-    width: 830px;
+    width: 695px;
     height: 1000px;
     float: left;
     background: rgba(245, 245, 245,0.3);
@@ -51,7 +51,7 @@ body{
    float: left;
    width: 270px;
    text-align: center;
-   margin: 0px 0px 30px 70px;
+   margin: 0px 0px 30px 60px;
    border-radius: 15px;
    border:rgb(165, 160, 160) 5px solid;
    background: rgba(245, 245, 245,0.3);

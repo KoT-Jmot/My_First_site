@@ -4,7 +4,7 @@ body{
     background: url("pic/fon.jpg") 0 0 no-repeat fixed;
     background-size: cover;
     text-align: center;
-    height: 10000px;
+    height: 100%;
     width: 100%;
 }
 .title{

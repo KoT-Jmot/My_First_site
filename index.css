@@ -4,35 +4,20 @@ body{
     background: url("pic/fon.jpg") 0 0 no-repeat fixed;
     background-size: cover;
     text-align: center;
-<<<<<<< HEAD
-    height: 100%;
-    width: 100%;
-=======
-    height: 10000px;
-    width: 1600px;
->>>>>>> 8539e425db0c74b7ef829cad1e0a47512b7a845c
+    height: 5000px;
+    width: 1430px;
 }
 .title{
     font-size:66px;
-    width: 1500px;
+    width: 1430px;
     font-weight: 900;
     text-shadow: 2px 2px 5px chartreuse;
     text-align: center;
     padding-bottom: 70px; /*отступ снизу*/
-}
-.left_side{
-    width: 350px;
-    height: 1000px;
-
-    display: inline-block; /*дивы*/
-    
-      
-    display: inline-block;
-    height: 100px;
-    margin: 0px;
+    margin-left: 25px;
 }
 .side{
-    width: 350px;
+    width: 300px;
     height: 1000px;
 
     display: inline-block; /*дивы*/
@@ -48,7 +33,7 @@ body{
 
 
 .center{
-    width: 800px;
+    width: 830px;
     height: 1000px;
     float: left;
     background: rgba(245, 245, 245,0.3);
@@ -64,9 +49,9 @@ body{
    font-size:34px;
    text-shadow: 2px 2px 5px chartreuse;
    float: left;
-   width: 300px;
+   width: 270px;
    text-align: center;
-   margin: 0px 65px 30px 15px;
+   margin: 0px 0px 30px 70px;
    border-radius: 15px;
    border:rgb(165, 160, 160) 5px solid;
    background: rgba(245, 245, 245,0.3);
